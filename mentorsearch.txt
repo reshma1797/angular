@@ -1,0 +1,139 @@
+<div class="page-wrapper">
+    <div class="container">
+        <br><br>
+        <h3>Search a Technology and find your Mentor</h3>
+        <br>
+
+
+        <div class="row justify-content-center">
+            <div class="col-12 col-md-10 col-lg-8">
+                <form class="card card-sm">
+                    <div class="card-body row no-gutters align-items-center">
+
+                        <!--end of col-->
+                        <div class="col">
+                            <input class="form-control form-control-lg form-control-borderless" id="search" type="search"
+                                placeholder="Search technology">
+                        </div>
+                        <!--end of col-->
+                        <div class="col-auto">
+                            <button class="btn btn-lg btn-primary" type="submit">Search</button>
+                        </div>
+                        <!--end of col-->
+                    </div>
+                </form>
+            </div>
+            <!--end of col-->
+        </div>
+        <br>
+        <br>
+        <div class="container">
+            <div class="polaroid">
+                <h3>Trainings for you...</h3><br>
+                <div class="container">
+                    <div class="polaroid">
+                        <div class="card">
+                            <div class="card-header">
+                                Search result
+                            </div>
+                            <div class="card-body">
+                                <h5 class="card-title">Course Name :Java</h5>
+                                <h5 class="card-title">Mentor Name :Rey</h5>
+                                <p>Rating:4.7</p>
+
+
+                                <a href="#" class="btn btn-primary">Propose Training</a>
+
+                            </div>
+                        </div>
+
+
+                        <div class="panel">
+                            <div style="padding-top:30px" class="panel-body">
+
+                                <span class="row">
+                                    <h1 style="color:#006181;margin-left:50px;margin-top:25px;">Top Metors of the Week
+                                    </h1>
+                                </span>
+                                <hr>
+
+                                <div class="card d1">
+                                    <div class="card-body row">
+                                        <div class="col-sm-3">
+                                            <img src="mentor.jpg" alt="logo" class="t7"
+                                                style="border-radius: 50%; width: 80px; height: 80px;margin:30px;"
+                                                class="mr-sm-4"></div>
+                                        <div class="col-sm-6">
+                                            <h2>Surender</h2>
+                                            <h3>18 Years Experience</h3>
+                                            <h3>Rating 4.5</h3>
+                                            <span style="color:orange;font-size:20px;">Spring, Hibernate, Jenkins</span>
+                                        </div>
+                                        <div class="col-sm-1"><a href="mentorProfile.html">
+                                                <input class="btn btn-info b" type="submit"
+                                                    value="View Mentor Profile"></a></div>
+                                    </div>
+                                </div>
+                                <div class="card d1">
+                                    <div class="card-body row">
+                                        <div class="col-sm-3">
+                                            <img src="mentor.jpg" alt="logo" class="t7"
+                                                style="border-radius: 50%; width: 80px; height: 80px;margin:30px;"
+                                                class="mr-sm-4"></div>
+                                        <div class="col-sm-6">
+                                            <h2>Mahesh Kumar</h2>
+                                            <h3>5 Years Experience</h3>
+                                            <h3>Rating 3.4</h3>
+                                            <span style="color:orange;font-size:20px;">Docker, MySQL</span>
+                                        </div>
+                                        <div class="col-sm-1"><a href="#">
+                                                <input class="btn btn-info b" type="submit"
+                                                    value="View Mentor Profile"></a></div>
+                                    </div>
+                                </div>
+
+                                <div class="card d1">
+                                    <div class="card-body row">
+                                        <div class="col-sm-3">
+                                            <img src="mentor.jpg" alt="logo" class="t7"
+                                                style="border-radius: 50%; width: 80px; height: 80px;margin:30px;"
+                                                class="mr-sm-4"></div>
+                                        <div class="col-sm-6">
+                                            <h2>Robert Hannings</h2>
+                                            <h3>7 Years Experience</h3>
+                                            <h3>Rating 3.8</h3>
+                                            <span style="color:orange;font-size:20px;">HTML, Bootstrap, CSS</span>
+                                        </div>
+                                        <div class="col-sm-1"><a href="#">
+                                                <input class="btn btn-info b" type="submit"
+                                                    value="View Mentor Profile"></a></div>
+
+                                    </div>
+                                </div>
+                                <div class="card d1">
+                                    <div class="card-body row">
+                                        <div class="col-sm-3">
+                                            <img src="mentor.jpg" alt="logo" class="t7"
+                                                style="border-radius: 50%; width: 80px; height: 80px;margin:30px;"
+                                                class="mr-sm-4"></div>
+                                        <div class="col-sm-6">
+                                            <h2>Sharath</h2>
+                                            <h3>8 Years Experience</h3>
+                                            <h3>Rating 4.4</h3>
+                                            <span style="color:orange;font-size:20px;">Spring, Hibernate</span>
+                                        </div>
+                                        <div class="col-sm-1"><a href="#">
+                                                <input class="btn btn-info b" type="submit"
+                                                    value="View Mentor Profile"></a></div>
+
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div><br>
+        </div>
+    </div>
+</div>
